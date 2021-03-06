@@ -1,0 +1,9 @@
+#include<iostream>
+
+void main(){
+   int a = 10;
+   int b = 20;
+
+   if(a < 15) break;
+   return 0;
+}
